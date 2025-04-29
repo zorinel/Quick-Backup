@@ -1,3 +1,5 @@
+## TUTORIAL TO INSTALL - https://www.youtube.com/watch?v=MaeXzmWE-5k
+
 ## 🧩 Quick Backup — Simple Blender Addon
 
 Quick Backup is a simple Blender addon designed to automate the process of saving backups of your .blend files. It allows you to quickly save a backup with a single click, as well as set automatic backups at regular intervals.
